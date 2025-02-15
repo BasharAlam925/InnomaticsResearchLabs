@@ -19,7 +19,7 @@ model = genai.GenerativeModel(
 st.title("Review your code with AI")
 st.markdown(
     """
-    Welcome to the **AI Code Reviewer**! 🤖  
+    Welcome to the **AI Code Reviewer**!
     Paste your code snippet below, and I'll provide a detailed review, including feedback and suggestions.  
     *Note: Please only submit code-related content.* 
     """
